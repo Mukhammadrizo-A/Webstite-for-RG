@@ -77,7 +77,7 @@ if password == st.secrets["password"]:
                 st.write("Используйте шаблоны и формы из специальной группы.")
 
         with col4:
-            st.link_button("Группа", "https://vk.com/club229790969)
+            st.link_button("Группа", "https://vk.com/club229790969")
 
         with st.expander(" 2.4 Баллы с таблицы Редакторов вы сможете выводить в админскую таблицу"):
             st.write("Для вывода просто скажите об этом Главному Редактору")
